@@ -21,9 +21,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
            
  ## Fases do Projeto :arrow_forward:
  
- - [x] Levantamento de Requisitos
- - [x] Criar o Modelo Transacional e os Scripts
- - [x] Modelar o Data Warehouse
+ - [x] <strike>Levantamento de Requisitos</strike>
+ - [x] <strike>Criar o Modelo Transacional e os Scripts</strike>
+ - [x] <strike>Modelar o Data Warehouse</strike>
  - [ ] Fazer o ETL
  - [ ] Criar os Dashboards
            
