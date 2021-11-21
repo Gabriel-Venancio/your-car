@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Your Car" title="#Your Car" src="your_car.gif" />
+  <img alt="Your Car" title="#Your Car" src="your_car.gif" height="250" width="250"/>
 </h1>
 <p align="center"></p>
 
