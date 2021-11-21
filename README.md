@@ -18,14 +18,16 @@ As seguintes ferramentas foram usadas na construção do projeto:
  - brModelo
  - PostgreSQL
  - Power Architect
+ - Pentaho Data Integration
+ - Power BI
            
  ## Fases do Projeto :arrow_forward:
  
  - [x] <strike>Levantamento de Requisitos</strike>
  - [x] <strike>Criar o Modelo Transacional e os Scripts</strike>
  - [x] <strike>Modelar o Data Warehouse</strike>
- - [ ] Fazer o ETL
- - [ ] Criar os Dashboards
+ - [x] Fazer o ETL
+ - [x] Criar os Dashboards
            
            
  ## Desenvolvedores/Contribuintes :octocat:
