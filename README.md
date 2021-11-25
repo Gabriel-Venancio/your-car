@@ -46,6 +46,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  - [x] <strike>Modelar o Data Warehouse</strike>
  - [x] <strike>Fazer o ETL</strike>
  - [x] <strike>Criar os Dashboards</strike>
+ - [x] <strike>Documentação do Projeto</strike>
            
            
  ## Desenvolvedores/Contribuintes :octocat:
