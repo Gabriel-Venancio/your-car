@@ -28,7 +28,16 @@ As seguintes ferramentas foram usadas na construção do projeto:
  - Pentaho Data Integration
  - Power BI
 
- ## Dashboard
+ ## Dashboards
+ 
+ <h1 align="center">
+  <p>Análise Geral</p>
+  <img alt="Dashboard análise geral" title="#Dashboard análise geral" src="4 - Dashboard/imagens/analise.png"/>
+</h1>
+<h1 align="center">
+  <p>Perfil de Cliente</p>
+  <img alt="Perfil de Cliente" title="#Perfil de Cliente" src="4 - Dashboard/imagens/perfil_cliente.png"/>
+</h1>
  
  ## Fases do Projeto :arrow_forward:
  
